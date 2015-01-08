@@ -1,0 +1,35 @@
+commit f7402df38b5cba7e73a944c21f7da26d534809b5
+Author: disparoperdigones <jldominguez198125@gmail.com>
+Date:   Thu Jan 8 21:04:17 2015 +0100
+
+    Subí portafolio
+
+commit e5e609296e03d371223b8254d6e78ada9fd1e577
+Author: disparoperdigones <jldominguez198125@gmail.com>
+Date:   Thu Jan 8 21:01:34 2015 +0100
+
+    Soy el puto amo
+
+commit ca9d0874ae1a91a7d02487b11ae261d0b6ee8e33
+Author: disparoperdigones <jldominguez198125@gmail.com>
+Date:   Thu Jan 8 21:00:11 2015 +0100
+
+    Subiendo redes sociales
+
+commit 6035d2bdd6f273c0aceda025e3b5761e990d7e99
+Author: disparoperdigones <jldominguez198125@gmail.com>
+Date:   Thu Jan 8 20:55:38 2015 +0100
+
+    Cambio para el segundo commit
+
+commit 0545e9229190d80dfbcb6178a90bf5a51e5573af
+Author: disparoperdigones <jldominguez198125@gmail.com>
+Date:   Thu Jan 8 20:53:27 2015 +0100
+
+    Subí foto de perfil y mi nombre
+
+commit 10f3d1c8c3e75bb3fe9b22c387b05049a007cc3e
+Author: disparoperdigones <jldominguez198125@gmail.com>
+Date:   Thu Jan 8 20:47:39 2015 +0100
+
+    Estos son los archivos base de mi portafolios
